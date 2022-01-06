@@ -88,11 +88,12 @@ h1{
 }
 .buttontwo{
     text-decoration: none;
+    color: wheat;
 }
 .last{
     width: 40%;
     padding-left: 10%;
     background-image: url(images/shapes/shape-2.png);
     margin-right: 7%;
-    color: whitesmoke
+    color: wheat;
 }

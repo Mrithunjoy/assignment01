@@ -35,7 +35,7 @@ h1{
     text-align: center;
 }
 .boxa{
-    height: 300px;
+    height: 350px;
     width: 230px;
     margin-left: 2%;
     margin-right: 2%;
@@ -45,7 +45,7 @@ h1{
     border-radius: 10px;
 }
 .boxb{
-    height: 300px;
+    height: 350px;
     width: 230px;
     margin-left: 2%;
     margin-right: 2%;
@@ -55,7 +55,7 @@ h1{
     border-radius: 10px;
 }
 .boxc{
-    height: 300px;
+    height: 350px;
     width: 230px;
     margin-left: 2%;
     margin-right: 2%;
@@ -81,4 +81,8 @@ h1{
     background-repeat: no-repeat;
     background-size: 150px 200px;
     background-position: bottom -5px right 150px;
+}
+.foot{
+    background-color: black;
+    color: whitesmoke;
 }
